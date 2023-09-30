@@ -1,27 +1,14 @@
-# React + TypeScript + Vite
+# Quiz trivia app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um emocionante quiz trivia desenvolvido em React e TypeScript. Teste seus conhecimentos em uma variedade de tópicos enquanto se diverte respondendo perguntas. O projeto oferece uma experiência interativa e fácil de usar.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
+- [Tailwind](https://tailwindcss.com) - Para Estilização
+- [React](https://reactjs.org/) - Biblioteca JS
+- [TypeScript](https://www.typescriptlang.org) - Superset de JavaScript que traz tipagem estática para o projeto.
+- [Vite](https://vitejs.dev) - Ferramenta de Desenvolvimento
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#
+![preview.img](./public/preview.png)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+[Live Site](https://brilliant-otter-3bb675.netlify.app/)
