@@ -1,6 +1,6 @@
 import { AlertCircle } from "lucide-react"
-import { DisplayInfoProps } from "../../types"
-import { cards } from '../constants'
+import { DisplayInfoProps } from "../../types/index"
+import { cards } from '../constants/index'
 import { useParams } from "react-router-dom"
 
 

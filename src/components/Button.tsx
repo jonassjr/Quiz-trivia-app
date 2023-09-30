@@ -1,4 +1,4 @@
-import { ButtonProps } from "../../types"
+import { ButtonProps } from "../../types/index"
 
 export const Button = ({title, className, onClick, }: ButtonProps) => {
   return (

@@ -1,8 +1,8 @@
-import cardHistoriaMundial from './assets/card-historia-mundial.svg'
-import cardMitologiaFolclore from './assets/card-mitologia-e-folclore.svg'
-import cardGeorgrafiaMundial from './assets/card-geografia-mundial.svg'
-import cardLieraturaMundial from './assets/card-literatura-mundial.svg'
-import cardCienciaTecnolocia from './assets/card-ciencia-e-tecnologia.svg'
+import cardHistoriaMundial from '../assets/card-historia-mundial.svg'
+import cardMitologiaFolclore from '../assets/card-mitologia-e-folclore.svg'
+import cardGeorgrafiaMundial from '../assets/card-geografia-mundial.svg'
+import cardLieraturaMundial from '../assets/card-literatura-mundial.svg'
+import cardCienciaTecnolocia from '../assets/card-ciencia-e-tecnologia.svg'
 
 export const cards = [
   {

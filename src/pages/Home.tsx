@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-import { cards } from "../constants"
+import { cards } from "../constants/index"
 
 import { Swiper, SwiperSlide } from "swiper/react"
 
@@ -25,7 +25,7 @@ export const Home = () => {
           <span className="h-[3px] w-44 rounded bg-first-color block"></span>
         </div>
 
-        <div className="">
+        <div>
           <Swiper
             spaceBetween={-50}
             slidesPerView={1}
