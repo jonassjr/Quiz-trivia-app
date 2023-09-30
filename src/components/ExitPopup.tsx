@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { Button } from "./Button"
 
-import { ExitPopupProps } from "../../types"
+import { ExitPopupProps } from "../../types/index"
 
 export const ExitPopup = ({ handleExit, exitPopup }: ExitPopupProps) => {
   

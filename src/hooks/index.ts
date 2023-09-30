@@ -1,5 +1,5 @@
 import { useEffect, useState, useMemo } from 'react'
-import { Question } from '../../types';
+import { Question } from '../../types/index';
 import { MyDataQuestions } from '../DataQuestions';
 import { useParams } from 'react-router-dom';
 

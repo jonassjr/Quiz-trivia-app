@@ -1,6 +1,6 @@
 import { Circle, CheckCircle2, XCircle } from "lucide-react"
 
-import { QuestionsProps } from "../../types"
+import { QuestionsProps } from "../../types/index"
 
 export const Questions = (
   {

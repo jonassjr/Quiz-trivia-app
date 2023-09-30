@@ -1,4 +1,4 @@
-import { DataQuestions } from "../types";
+import { DataQuestions } from "../types/index";
 
 export const MyDataQuestions: DataQuestions = {
   'historia-mundial': [

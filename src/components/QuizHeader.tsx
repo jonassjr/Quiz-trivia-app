@@ -2,7 +2,7 @@ import { useLocation } from 'react-router-dom';
 
 import { Lightbulb, LogOut } from 'lucide-react';
 
-import { HeaderProps } from '../../types';
+import { HeaderProps } from '../../types/index';
 
 export function QuizHeader(
   {
